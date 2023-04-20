@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pockettaiga
+- 👋 Hi, I’m oleg
 - 👀 I’m interested in mathematics and computer science
 - 🌱 I’m currently learning C++, Python, Applied Mathematics
 - 💞️ I’m looking to collaborate on ...
